@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shristi Dhakal</h1>
 
 <h3 align="center">
-Computer Engineering Student | Passionate About Software Development 💡💻
+Computer Engineering Student 💡💻
 </h3>
 
 
